@@ -3,7 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=200&section=header&text=hamburger956&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:ff4500&height=200&section=header&text=hamburger956&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </picture>
+
 ---
+
 <div align="center">
   
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%96%A4+Hello+There~+Welcome!;%F0%9F%8C%88+I'm+hamburger956~;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%90%B1+Cat+%26+Code+Lover;%F0%9F%8C%9F+Let's+Build+Cool+Things!" alt="Typing SVG" />
@@ -20,7 +22,8 @@
   <tr>
     <td width="65%">
       <h3>🌸 About Me</h3>
-      🎯 <b>全栈开发者</b> · 开源爱好者 
+      
+      🎯 <b>全栈开发者</b> · 开源爱好者 · 猫奴 🐱
       
       💻 热爱构建 <b>好看又好用</b> 的产品
       
@@ -43,11 +46,19 @@
 </table>
 
 ---
+
 ## 🛠️ Tech Stack · 技术栈
+
+<div align="center">
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,vue,ts,nextjs,tailwind,go,rust,py,nodejs,postgres,redis,docker,kubernetes,aws,git,linux,figma,vscode&perline=9&theme=dark" />
 </a>
+
+</div>
+
 ---
+
 ## 📊 GitHub Stats · 数据看板
 
 <div align="center">
@@ -56,23 +67,23 @@
   <tr>
     <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api?username=hamburger956&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
-      <sub>🌸 综合统计</sub>
+      <br/><sub>🌸 综合统计</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamburger956&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" width="100%" />
-      <sub>🔥 连续贡献</sub>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamburger956&theme=rose_pine&hide_border=true" width="100%" />
+      <br/><sub>🔥 连续贡献</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamburger956&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" width="100%" />
-      <sub>💻 语言偏好</sub>
+      <br/><sub>💻 语言偏好</sub>
     </td>
   </tr>
 </table>
 
-<!-- 备选主题：换成 tokyonight 风格试试 ⭐ -->
-<!-- 把上面所有 rose_pine 替换为 tokyonight 即可 -->
-
 </div>
+
+---
+
 ## 🏆 Trophy Case · 成就墙
 
 <div align="center">
@@ -81,36 +92,49 @@
 
 <br/>
 
-<!-- 修仙等级（可选彩蛋） -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://count.getloli.com/get@:hamburger956?theme=rule34" width="280px" />
-</a>
+<img src="https://count.getloli.com/get/@:hamburger956?theme=rule34" width="280px" alt="visit count" />
 
 </div>
+
+---
+
 ## 🌈 3D Contribution · 立体贡献图
 
 <div align="center">
-  
-<!-- 🌙 暗夜彩虹版 — 最可爱！ -->
+
+<!--
+  ⚠️ 如果下面图片显示为裂图（broken image），说明 GitHub Actions 还没跑过。
+  请前往仓库 Actions 页面，手动运行 "GitHub-Profile-3D-Contrib" workflow 一次即可。
+  配置方法见仓库下的 .github/workflows/profile-3d.yml
+-->
+
+<!-- 方案 A：相对路径（需要先运行 Actions 生成文件，推荐） -->
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+
+<!--
+  备用链接（如果上面不行，取消注释下面这行试试）：
+  <img src="https://raw.githubusercontent.com/hamburger956/hamburger956/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
+-->
 
 <br/>
 
-<sub>✨ 每天自动更新 · 彩虹色代表我的代码能量 ✨</sub>
+<p>✨ 每天自动更新 · 彩虹色代表我的代码能量 ✨</p>
 
 </div>
+
 ---
 
 ## 📬 Let's Connect · 联系我
 
 <div align="center">
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-📺-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/518726041)
+<a href="https://space.bilibili.com/518726041">
+  <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+</a>
 
 <br/>
 
-<!-- 访客计数（可爱版） -->
-<img src="https://count.getloli.com/get/@:hamburger956?theme=moebooru" alt=":hamburger956" />
+<img src="https://count.getloli.com/get/@:hamburger956?theme=moebooru" alt="visit counter" />
 
 <br/>
 
@@ -118,7 +142,6 @@
   
 <br/>
 
-<!-- 底部波浪 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:8a2be2&height=150&section=footer&animation=twinkling" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:da70d6&height=150&section=footer&animation=twinkling" />
