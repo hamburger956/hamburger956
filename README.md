@@ -4,37 +4,30 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:ff4500&height=200&section=header&text=hamburger956&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </picture>
 
----
+
 
 <div align="center">
-  
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%96%A4+Hello+There~+Welcome!;%F0%9F%8C%88+I'm+hamburger956~;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%90%B1+Cat+%26+Code+Lover;%F0%9F%8C%9F+Let's+Build+Cool+Things!" alt="Typing SVG" />
 
 <br/>
-  
+
 <img src="https://media.tenor.com/whgWwRkFm5cAAAAi/cute-cat-coding.gif" width="150" />
 
 </div>
 
----
+
 
 <table>
   <tr>
     <td width="65%">
       <h3>🌸 About Me</h3>
-      
-      🎯 <b>全栈开发者</b> · 开源爱好者 · 猫奴 🐱
-      
-      💻 热爱构建 <b>好看又好用</b> 的产品
-      
-      🌱 深耕 <b>Go / Rust / React / TypeScript</b>
-      
-      🎨 坚信代码可以既有 <b>力量</b> 又有 <b>美感</b>
-      
-      💬 欢迎找我聊 <b>开源协作、系统设计、AI</b>
-      
-      ⚡ <i>"Code with ❤️, design with 🎀, ship with 🚀"</i>
-      
+      🎯 <b>全栈开发者</b> · 开源爱好者 · 猫奴 🐱<br/>
+      💻 热爱构建 <b>好看又好用</b> 的产品<br/>
+      🌱 深耕 <b>Go / Rust / React / TypeScript</b><br/>
+      🎨 坚信代码可以既有 <b>力量</b> 又有 <b>美感</b><br/>
+      💬 欢迎找我聊 <b>开源协作、系统设计、AI</b><br/>
+      ⚡ <i>"Code with ❤️, design with 🎀, ship with 🚀"</i><br/>
       🎵 写代码时必须有音乐 🎧
     </td>
     <td width="35%" align="center">
@@ -45,7 +38,7 @@
   </tr>
 </table>
 
----
+
 
 ## 🛠️ Tech Stack · 技术栈
 
@@ -57,7 +50,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats · 数据看板
 
@@ -82,13 +75,13 @@
 
 </div>
 
----
+
 
 ## 🏆 Trophy Case · 成就墙
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamburger956&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=hamburger956&theme=radical&no-frame=true&no-bg=true&column=6" width="100%" alt="GitHub Trophies" />
 
 <br/>
 
@@ -96,33 +89,19 @@
 
 </div>
 
----
+
 
 ## 🌈 3D Contribution · 立体贡献图
 
 <div align="center">
 
-<!--
-  ⚠️ 如果下面图片显示为裂图（broken image），说明 GitHub Actions 还没跑过。
-  请前往仓库 Actions 页面，手动运行 "GitHub-Profile-3D-Contrib" workflow 一次即可。
-  配置方法见仓库下的 .github/workflows/profile-3d.yml
--->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamburger956&theme=dracula&hide_border=true&area=true&radius=8&custom_title=🎀%20My%20Contributions&bg_color=1a1b27&color=ff69b4&line=ff1493&point=ff4500" width="95%" />
 
-<!-- 方案 A：相对路径（需要先运行 Actions 生成文件，推荐） -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
-
-<!--
-  备用链接（如果上面不行，取消注释下面这行试试）：
-  <img src="https://raw.githubusercontent.com/hamburger956/hamburger956/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%" />
--->
-
-<br/>
-
-<p>✨ 每天自动更新 · 彩虹色代表我的代码能量 ✨</p>
+<p>🌈 彩虹贡献图正在生成中...<br/>等 GitHub Actions 跑通后，会替换成 3D 彩虹版 🚀</p>
 
 </div>
 
----
+
 
 ## 📬 Let's Connect · 联系我
 
@@ -139,7 +118,7 @@
 <br/>
 
 **💖 感谢来到我的小天地！如果觉得我的项目有趣，欢迎 Star ⭐ 支持 💖**
-  
+
 <br/>
 
 <picture>
