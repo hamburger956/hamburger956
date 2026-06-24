@@ -18,19 +18,19 @@
 
 <table>
   <tr>
-    <td width="65%">
+    <td width="65%" valign="top">
       <h3>🌸 About Me</h3>
-      🎯 <b>全栈开发者</b> · 开源爱好者 · 喜欢芙宁娜<br/>
-      💻 热爱构建 <b>好看又好用</b> 的产品<br/>
-      🌱 深耕 <b>Cpp \ Python</b><br/>
-      🎨 坚信代码可以既有 <b>力量</b> 又有 <b>美感</b><br/>
-      💬 欢迎找我聊 <b>别找我!</b><br/>
-      ⚡ <i>"Code with ❤️, design with 🎀, ship with 🚀"</i><br/>
-      🎵 写代码时必须有music 🎧
+      <b>全栈开发者</b> · 开源爱好者 · 喜欢芙宁娜<br/>
+	  热爱构建 <b>好看又好用</b> 的产品<br/>
+      深耕 <b>Cpp \ Python</b><br/>
+      坚信代码可以既有 <b>力量</b> 又有 <b>美感</b><br/>
+      欢迎找我聊 <b>别找我!</b><br/>
+      写代码时必须有music 🎧
+      
+       <i>"Code with ❤️, design with 🎀, ship with 🚀"</i><br/>
     </td>
-    <td width="35%" align="center">
+    <td width="35%" align="center" valign="middle">
       <img src="https://media.giphy.com/media/HKJBPHjBy2MJa1SH8T/giphy.gif" width="200" alt="Furina" />
-      <br/>
     </td>
   </tr>
 </table>
@@ -41,10 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamburger956&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" width="46%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamburger956&theme=rose_pine&hide_border=true" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamburger956&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" width="60%" />
 </p>
 
 
@@ -65,6 +61,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamburger956&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Contribution%20Activity" width="95%" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamburger956&layout=compact&theme=rose_pine&hide_border=true&langs_count=8" width="60%" />
+</p>
 
 ## 📬 Let's Connect · 联系我
 
