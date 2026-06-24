@@ -26,7 +26,6 @@
       坚信代码可以既有 <b>力量</b> 又有 <b>美感</b><br/>
       欢迎找我聊 <b>别找我!</b><br/>
       写代码时必须有music 🎧
-      
        <i>"Code with ❤️, design with 🎀, ship with 🚀"</i><br/>
     </td>
     <td width="35%" align="center" valign="middle">
