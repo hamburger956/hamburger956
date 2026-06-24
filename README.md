@@ -7,14 +7,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=%F0%9F%96%A4+Hello+There~+Welcome!;%F0%9F%8C%88+I'm+hamburger956~;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%90%B1+Cat+%26+Code+Lover;%F0%9F%8C%9F+Let's+Build+Cool+Things!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hello+There~+Welcome!;I'm+hamburger956~;Full-Stack+Developer;Code+Lover;Let's+Build+Cool+Things!" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://media.tenor.com/whgWwRkFm5cAAAAi/cute-cat-coding.gif" width="150" />
 
 </div>
-
 
 
 <table>
@@ -60,12 +59,10 @@
 </div>
 
 
-## 🌈 Contributions
+##  📈 Contributions
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hamburger956&theme=dracula&hide_border=true&area=true&radius=8&custom_title=🎀%20My%20Contributions" width="95%" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamburger956&theme=tokyo-night&hide_border=true&area=true&custom_title=Recent%20Contribution%20Activity" width="95%" />
 </div>
 
 
@@ -85,12 +82,21 @@
 
 **💖 感谢来到我的小天地！如果觉得我的项目有趣，欢迎 Star ⭐ 支持 💖**
 
-<br/>
+</div>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hamburger956&style=flat-square&color=6C63FF)
+![Followers](https://img.shields.io/github/followers/hamburger956?style=flat-square&color=6C63FF)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:8a2be2&height=150&section=footer&animation=twinkling" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:da70d6&height=150&section=footer&animation=twinkling" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,50:ff1493,100:8a2be2&height=150&section=footer&animation=twinkling" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img width="100%" />
 </picture>
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamburger956/hamburger956/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamburger956/hamburger956/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hamburger956/hamburger956/output/github-contribution-grid-snake.svg">
+</picture>
